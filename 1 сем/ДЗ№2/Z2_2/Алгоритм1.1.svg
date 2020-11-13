@@ -1,0 +1,3634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg501"
+   version="1.1"
+   class="st10"
+   color-interpolation-filters="sRGB"
+   xml:space="preserve"
+   viewBox="0 0 595.276 1627.09"
+   height="22.5984in"
+   width="8.26772in"><metadata
+   id="metadata505"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+	<v:documentProperties
+   v:viewMarkup="false"
+   v:metric="true"
+   v:langID="1049">
+		<v:userDefs>
+			<v:ud
+   v:val="VT0(0):26"
+   v:nameU="msvNoAutoConnect" />
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style
+   id="style2"
+   type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Courier New;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {marker-end:url(#mrkr4-16);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st6 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st7 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st9 {marker-start:url(#mrkr4-190);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs
+   id="Markers">
+		<g
+   id="lend4">
+			<path
+   id="path4"
+   style="stroke:none"
+   d="M 2 1 L 0 0 L 2 -1 L 2 1 " />
+		</g>
+		<marker
+   overflow="visible"
+   markerUnits="strokeWidth"
+   orient="auto"
+   refX="-7.04"
+   v:setback="7.04"
+   v:arrowSize="2"
+   v:arrowType="4"
+   class="st6"
+   id="mrkr4-16">
+			<use
+   id="use7"
+   transform="scale(-3.52,-3.52) "
+   xlink:href="#lend4" />
+		</marker>
+		<marker
+   overflow="visible"
+   markerUnits="strokeWidth"
+   orient="auto"
+   refX="6.68"
+   v:setback="6.68"
+   v:arrowSize="2"
+   v:arrowType="4"
+   class="st6"
+   id="mrkr4-190">
+			<use
+   id="use10"
+   transform="scale(3.52) "
+   xlink:href="#lend4" />
+		</marker>
+	</defs>
+	<g
+   id="g499"
+   v:groupContext="foregroundPage"
+   v:index="1"
+   v:mID="0">
+		<v:userDefs>
+			<v:ud
+   v:val="VT0(0):26"
+   v:nameU="msvThemeOrder" />
+		</v:userDefs>
+		<title
+   id="title14">Страница-1</title>
+		<v:pageProperties
+   v:shadowOffsetY="-8.50394"
+   v:shadowOffsetX="8.50394"
+   v:drawingUnits="24"
+   v:pageScale="0.0393701"
+   v:drawingScale="0.0393701" />
+		<v:layer
+   v:index="0"
+   v:name="Блок-схема" />
+		<v:layer
+   v:index="1"
+   v:name="Соединительная линия" />
+		<g
+   transform="translate(262.205,-1570.39)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="2"
+   id="shape2-1">
+			<title
+   id="title16">Начало/конец</title>
+			<desc
+   id="desc18">Начало</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.39370078740157):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.39370078740157):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="28.3465"
+   width="70.87"
+   cy="1612.91"
+   cx="35.4331" />
+			<path
+   id="path20"
+   class="st1"
+   d="M14.17 1627.09 L56.69 1627.09 A14.1732 14.1732 -180 0 0 56.69 1598.74 L14.17 1598.74 A14.1732 14.1732 -180 1        0 14.17 1627.09 Z" />
+			<text
+   id="text22"
+   v:langID="1049"
+   class="st2"
+   y="1615.91"
+   x="17.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Начало</text>
+		</g>
+		<g
+   transform="translate(209.764,-1420.16)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="4"
+   id="shape4-4">
+			<title
+   id="title25">Решение</title>
+			<desc
+   id="desc27">(n&gt;8) или (n&lt;1) или (m&gt;12) или (m&lt;1)</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="31.8898"
+   width="146.46"
+   cy="1605.83"
+   cx="87.874" />
+			<path
+   id="path29"
+   class="st1"
+   d="M0 1605.83 L87.87 1584.57 L175.75 1605.83 L87.87 1627.09 L0 1605.83 Z" />
+			<text
+   id="text33"
+   v:langID="1049"
+   class="st2"
+   y="1602.83"
+   x="30.86"><v:paragraph
+   v:horizAlign="1" /><v:tabList />(n&gt;8) или (n&lt;1) или <tspan
+   id="tspan31"
+   class="st3"
+   dy="1.2em"
+   x="39.87">(</tspan>m&gt;12) или (m&lt;1)</text>
+		</g>
+		<g
+   transform="translate(290.551,-1570.39)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="6"
+   id="shape6-8">
+			<title
+   id="title36">Динамическая соединительная линия</title>
+			<path
+   id="path38"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1669.61" />
+		</g>
+		<g
+   transform="translate(209.764,-1441.42)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="8"
+   id="shape8-11">
+			<title
+   id="title41">Динамическая соединительная линия.8</title>
+			<path
+   id="path43"
+   class="st5"
+   d="M0 1627.09 L-17.01 1627.09 L-17.01 1517.39 L80.83 1517.39" />
+		</g>
+		<g
+   transform="translate(232.441,-1357.8)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="13"
+   id="shape13-17">
+			<title
+   id="title46">Пользовательская 4</title>
+			<desc
+   id="desc48">i=0, n-1, 1</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(1):26"
+   v:nameU="AntiScale" />
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="96.38"
+   cy="1605.83"
+   cx="65.1969" />
+			<path
+   id="path50"
+   class="st1"
+   d="M17.01 1627.09 L113.39 1627.09 L130.39 1605.83 L113.39 1584.57 L17.01 1584.57 L0 1605.83 L17.01 1627.09 Z" />
+			<text
+   id="text52"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="32.19"><v:paragraph
+   v:horizAlign="1" /><v:tabList />i=0, n-1, 1</text>
+		</g>
+		<g
+   transform="translate(290.551,-1420.16)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="21"
+   id="shape21-20">
+			<title
+   id="title55">Динамическая соединительная линия.21</title>
+			<path
+   id="path57"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1646.93" />
+		</g>
+		<g
+   transform="translate(290.551,-1485.35)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="61"
+   id="shape61-23">
+			<title
+   id="title60">Динамическая соединительная линия.61</title>
+			<path
+   id="path62"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1649.76" />
+		</g>
+		<g
+   transform="translate(262.205,-1485.35)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="60"
+   id="shape60-26">
+			<title
+   id="title65">Данные</title>
+			<desc
+   id="desc67">n, m</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="47.25"
+   cy="1605.83"
+   cx="35.4331" />
+			<path
+   id="path69"
+   class="st1"
+   d="M-10.63 1627.09 L60.24 1627.09 L81.5 1584.57 L10.63 1584.57 L-10.63 1627.09 Z" />
+			<text
+   id="text71"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="23.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />n, m</text>
+		</g>
+		<g
+   transform="translate(191.339,-1427.95)"
+   v:groupContext="shape"
+   v:mID="66"
+   id="shape66-29">
+			<title
+   id="title74">Лист.66</title>
+			<desc
+   id="desc76">да</desc>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="12.7559"
+   width="25.52"
+   cy="1620.71"
+   cx="12.7559" />
+			<rect
+   id="rect78"
+   class="st7"
+   height="12.7559"
+   width="25.5118"
+   y="1614.33"
+   x="0" />
+			<text
+   id="text80"
+   v:langID="1049"
+   class="st8"
+   y="1623.11"
+   x="8.61"><v:paragraph
+   v:horizAlign="1" /><v:tabList />да</text>
+		</g>
+		<g
+   transform="translate(293.386,-1405.98)"
+   v:groupContext="shape"
+   v:mID="68"
+   id="shape68-32">
+			<title
+   id="title83">Лист.68</title>
+			<desc
+   id="desc85">нет</desc>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="17.0079"
+   width="25.52"
+   cy="1618.58"
+   cx="12.7559" />
+			<rect
+   id="rect87"
+   class="st7"
+   height="17.0079"
+   width="25.5118"
+   y="1610.08"
+   x="0" />
+			<text
+   id="text89"
+   v:langID="1049"
+   class="st8"
+   y="1620.98"
+   x="7.08"><v:paragraph
+   v:horizAlign="1" /><v:tabList />нет</text>
+		</g>
+		<g
+   transform="translate(232.441,-1294.02)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="77"
+   id="shape77-35">
+			<title
+   id="title92">Пользовательская 4.77</title>
+			<desc
+   id="desc94">j=0, m-1, 1</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(1):26"
+   v:nameU="AntiScale" />
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="96.38"
+   cy="1605.83"
+   cx="65.1969" />
+			<path
+   id="path96"
+   class="st1"
+   d="M17.01 1627.09 L113.39 1627.09 L130.39 1605.83 L113.39 1584.57 L17.01 1584.57 L0 1605.83 L17.01 1627.09 Z" />
+			<text
+   id="text110"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="32.19"><v:paragraph
+   v:horizAlign="1" /><v:tabList />j=0<tspan
+   id="tspan98"
+   v:langID="1033"
+   class="st3">, </tspan><tspan
+   id="tspan100"
+   v:langID="1033"
+   class="st3">m</tspan><tspan
+   id="tspan102"
+   v:langID="1033"
+   class="st3">-</tspan><tspan
+   id="tspan104"
+   v:langID="1033"
+   class="st3">1</tspan>,<tspan
+   id="tspan106"
+   v:langID="1033"
+   class="st3"> </tspan><tspan
+   id="tspan108"
+   v:langID="1033"
+   class="st3">1</tspan></text>
+		</g>
+		<g
+   transform="translate(242.22,-1230.24)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="78"
+   id="shape78-44">
+			<title
+   id="title113">Процесс</title>
+			<desc
+   id="desc115">mstr[i][j]=(char)(rand()%11+32)</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="110.84"
+   cy="1605.83"
+   cx="55.4173" />
+			<rect
+   id="rect117"
+   class="st1"
+   height="42.5197"
+   width="110.835"
+   y="1584.57"
+   x="0" />
+			<text
+   id="text127"
+   v:langID="1049"
+   class="st2"
+   y="1602.83"
+   x="4.41"><v:paragraph
+   v:horizAlign="1" /><v:tabList />mstr[i]<tspan
+   id="tspan119"
+   v:langID="1033"
+   class="st3">[</tspan><tspan
+   id="tspan121"
+   v:langID="1033"
+   class="st3">j</tspan><tspan
+   id="tspan123"
+   v:langID="1033"
+   class="st3">]</tspan>=(char)<tspan
+   id="tspan125"
+   class="st3"
+   dy="1.2em"
+   x="13.41">(</tspan>rand()%11+32)</text>
+		</g>
+		<g
+   transform="translate(262.205,-1166.46)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="81"
+   id="shape81-51">
+			<title
+   id="title130">Документ</title>
+			<desc
+   id="desc132">mstr[i][j]</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="31.8898"
+   width="70.87"
+   cy="1600.51"
+   cx="35.4331" />
+			<path
+   id="path134"
+   class="st1"
+   d="M0 1621.77 L0 1584.57 L70.87 1584.57 L70.87 1621.77 A32.185 32.185 -180 0 0 35.43 1621.77 A32.185 32.185 0 0        1 -0 1621.77 Z" />
+			<text
+   id="text142"
+   v:langID="1049"
+   class="st2"
+   y="1603.51"
+   x="5.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />mstr[i]<tspan
+   id="tspan136"
+   v:langID="1033"
+   class="st3">[</tspan><tspan
+   id="tspan138"
+   v:langID="1033"
+   class="st3">j</tspan><tspan
+   id="tspan140"
+   v:langID="1033"
+   class="st3">]</tspan></text>
+		</g>
+		<g
+   transform="translate(290.551,-1357.8)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="83"
+   id="shape83-57">
+			<title
+   id="title145">Динамическая соединительная линия.83</title>
+			<path
+   id="path147"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(290.551,-1294.02)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="84"
+   id="shape84-60">
+			<title
+   id="title150">Динамическая соединительная линия.84</title>
+			<path
+   id="path152"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(290.551,-1230.24)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="85"
+   id="shape85-63">
+			<title
+   id="title155">Динамическая соединительная линия.85</title>
+			<path
+   id="path157"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(297.638,-1171.77)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="86"
+   id="shape86-66">
+			<title
+   id="title160">Динамическая соединительная линия.86</title>
+			<path
+   id="path162"
+   class="st5"
+   d="M0 1627.09 L0 1653.66 L-86.46 1653.66 L-86.46 1483.58 L-72.24 1483.58" />
+		</g>
+		<g
+   transform="translate(362.835,-1315.28)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="89"
+   id="shape89-71">
+			<title
+   id="title165">Динамическая соединительная линия.89</title>
+			<path
+   id="path167"
+   class="st5"
+   d="M0 1627.09 L9 1627.09 L9 1818.19 L-175.04 1818.19 L-175.04 1563.31 L-137.43 1563.31" />
+		</g>
+		<g
+   transform="translate(362.835,-1379.06)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="91"
+   id="shape91-76">
+			<title
+   id="title170">Динамическая соединительная линия.91</title>
+			<path
+   id="path172"
+   class="st4"
+   d="M0 1627.09 L30.47 1627.09 L30.47 1902.05 L-59.53 1902.05 L-59.53 1920.47" />
+		</g>
+		<g
+   transform="translate(238.535,-964.488)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="93"
+   id="shape93-79">
+			<title
+   id="title175">Пользовательская 4.93</title>
+			<desc
+   id="desc177">j=0, m-1, 1</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(1):26"
+   v:nameU="AntiScale" />
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="96.38"
+   cy="1605.83"
+   cx="65.1969" />
+			<path
+   id="path179"
+   class="st1"
+   d="M17.01 1627.09 L113.39 1627.09 L130.39 1605.83 L113.39 1584.57 L17.01 1584.57 L0 1605.83 L17.01 1627.09 Z" />
+			<text
+   id="text191"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="32.19"><v:paragraph
+   v:horizAlign="1" /><v:tabList />j=0<tspan
+   id="tspan181"
+   v:langID="1033"
+   class="st3">,</tspan> m<tspan
+   id="tspan183"
+   v:langID="1033"
+   class="st3">-</tspan><tspan
+   id="tspan185"
+   v:langID="1033"
+   class="st3">1</tspan><tspan
+   id="tspan187"
+   v:langID="1033"
+   class="st3">, </tspan><tspan
+   id="tspan189"
+   v:langID="1033"
+   class="st3">1</tspan></text>
+		</g>
+		<g
+   transform="translate(268.299,-900.709)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="95"
+   id="shape95-87">
+			<title
+   id="title194">Процесс.95</title>
+			<desc
+   id="desc196">u=0</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="70.87"
+   cy="1605.83"
+   cx="35.4331" />
+			<rect
+   id="rect198"
+   class="st1"
+   height="42.5197"
+   width="70.8661"
+   y="1584.57"
+   x="0" />
+			<text
+   id="text200"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="26.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />u=0</text>
+		</g>
+		<g
+   transform="translate(268.299,-836.929)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="99"
+   id="shape99-90">
+			<title
+   id="title203">Процесс.99</title>
+			<desc
+   id="desc205">p=0</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="70.87"
+   cy="1605.83"
+   cx="35.4331" />
+			<rect
+   id="rect207"
+   class="st1"
+   height="42.5197"
+   width="70.8661"
+   y="1584.57"
+   x="0" />
+			<text
+   id="text209"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="26.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />p=0</text>
+		</g>
+		<g
+   transform="translate(238.535,-773.15)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="102"
+   id="shape102-93">
+			<title
+   id="title212">Пользовательская 4.102</title>
+			<desc
+   id="desc214">i=0, n-1, 1</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(1):26"
+   v:nameU="AntiScale" />
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="96.38"
+   cy="1605.83"
+   cx="65.1969" />
+			<path
+   id="path216"
+   class="st1"
+   d="M17.01 1627.09 L113.39 1627.09 L130.39 1605.83 L113.39 1584.57 L17.01 1584.57 L0 1605.83 L17.01 1627.09 Z" />
+			<text
+   id="text228"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="32.19"><v:paragraph
+   v:horizAlign="1" /><v:tabList />i=0<tspan
+   id="tspan218"
+   v:langID="1033"
+   class="st3">, </tspan><tspan
+   id="tspan220"
+   v:langID="1033"
+   class="st3">n</tspan>-<tspan
+   id="tspan222"
+   v:langID="1033"
+   class="st3">1</tspan><tspan
+   id="tspan224"
+   v:langID="1033"
+   class="st3">, </tspan><tspan
+   id="tspan226"
+   v:langID="1033"
+   class="st3">1</tspan></text>
+		</g>
+		<g
+   transform="translate(248.315,-709.37)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="104"
+   id="shape104-101">
+			<title
+   id="title231">Решение.104</title>
+			<desc
+   id="desc233">mstr[i][j]='*'</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="31.8898"
+   width="92.37"
+   cy="1605.83"
+   cx="55.4173" />
+			<path
+   id="path235"
+   class="st1"
+   d="M0 1605.83 L55.42 1584.57 L110.83 1605.83 L55.42 1627.09 L0 1605.83 Z" />
+			<text
+   id="text245"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="13.41"><v:paragraph
+   v:horizAlign="1" /><v:tabList />mstr[<tspan
+   id="tspan237"
+   v:langID="1033"
+   class="st3">i</tspan>]<tspan
+   id="tspan239"
+   v:langID="1033"
+   class="st3">[</tspan><tspan
+   id="tspan241"
+   v:langID="1033"
+   class="st3">j</tspan><tspan
+   id="tspan243"
+   v:langID="1033"
+   class="st3">]</tspan>='*'</text>
+		</g>
+		<g
+   transform="translate(197.433,-645.591)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="106"
+   id="shape106-108">
+			<title
+   id="title248">Процесс.106</title>
+			<desc
+   id="desc250">u++</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="70.87"
+   cy="1605.83"
+   cx="35.4331" />
+			<rect
+   id="rect252"
+   class="st1"
+   height="42.5197"
+   width="70.8661"
+   y="1584.57"
+   x="0" />
+			<text
+   id="text254"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="26.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />u++</text>
+		</g>
+		<g
+   transform="translate(296.646,-964.488)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="107"
+   id="shape107-111">
+			<title
+   id="title257">Динамическая соединительная линия.107</title>
+			<path
+   id="path259"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(296.646,-900.709)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="108"
+   id="shape108-114">
+			<title
+   id="title262">Динамическая соединительная линия.108</title>
+			<path
+   id="path264"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(296.646,-836.929)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="109"
+   id="shape109-117">
+			<title
+   id="title267">Динамическая соединительная линия.109</title>
+			<path
+   id="path269"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(296.646,-773.15)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="110"
+   id="shape110-120">
+			<title
+   id="title272">Динамическая соединительная линия.110</title>
+			<path
+   id="path274"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(248.315,-730.63)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="111"
+   id="shape111-123">
+			<title
+   id="title277">Динамическая соединительная линия.111</title>
+			<path
+   id="path279"
+   class="st5"
+   d="M0 1627.09 L-15.45 1627.09 L-15.45 1662.57" />
+		</g>
+		<g
+   transform="translate(342.709,-645.591)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="113"
+   id="shape113-128">
+			<title
+   id="title282">Решение.113</title>
+			<desc
+   id="desc284">mstr[i]=' '</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="31.8898"
+   width="92.37"
+   cy="1605.83"
+   cx="55.4173" />
+			<path
+   id="path286"
+   class="st1"
+   d="M0 1605.83 L55.42 1584.57 L110.83 1605.83 L55.42 1627.09 L0 1605.83 Z" />
+			<text
+   id="text288"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="22.41"><v:paragraph
+   v:horizAlign="1" /><v:tabList />mstr[i]=' '</text>
+		</g>
+		<g
+   transform="translate(359.15,-730.63)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="114"
+   id="shape114-131">
+			<title
+   id="title291">Динамическая соединительная линия.114</title>
+			<path
+   id="path293"
+   class="st4"
+   d="M0 1627.09 L38.98 1627.09 L38.98 1669.61" />
+		</g>
+		<g
+   transform="translate(289.559,-581.811)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="115"
+   id="shape115-134">
+			<title
+   id="title296">Процесс.115</title>
+			<desc
+   id="desc298">p++</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="70.87"
+   cy="1605.83"
+   cx="35.4331" />
+			<rect
+   id="rect300"
+   class="st1"
+   height="42.5197"
+   width="70.8661"
+   y="1584.57"
+   x="0" />
+			<text
+   id="text302"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="26.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />p++</text>
+		</g>
+		<g
+   transform="translate(342.709,-666.85)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="116"
+   id="shape116-137">
+			<title
+   id="title305">Динамическая соединительная линия.116</title>
+			<path
+   id="path307"
+   class="st5"
+   d="M0 1627.09 L-17.72 1627.09 L-17.72 1662.57" />
+		</g>
+		<g
+   transform="translate(453.543,-666.85)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="117"
+   id="shape117-142">
+			<title
+   id="title310">Динамическая соединительная линия.117</title>
+			<path
+   id="path312"
+   class="st4"
+   d="M0 1627.09 L21.26 1627.09 L21.26 1733.5 L-128.55 1733.5 L-128.55 1712.13" />
+		</g>
+		<g
+   transform="translate(268.299,-432.992)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="127"
+   id="shape127-145">
+			<title
+   id="title315">Решение.127</title>
+			<desc
+   id="desc317">u&gt;=p</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="31.8898"
+   width="59.06"
+   cy="1605.83"
+   cx="35.4331" />
+			<path
+   id="path319"
+   class="st1"
+   d="M0 1605.83 L35.43 1584.57 L70.87 1605.83 L35.43 1627.09 L0 1605.83 Z" />
+			<text
+   id="text321"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="23.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />u&gt;=p</text>
+		</g>
+		<g
+   transform="translate(368.929,-794.409)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="128"
+   id="shape128-148">
+			<title
+   id="title324">Динамическая соединительная линия.128</title>
+			<path
+   id="path326"
+   class="st4"
+   d="M0 1627.09 L128.5 1627.09 L128.5 1922.48 L-65.2 1922.48 L-65.2 1945.98" />
+		</g>
+		<g
+   transform="translate(211.606,-376.299)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="131"
+   id="shape131-151">
+			<title
+   id="title329">Процесс.131</title>
+			<desc
+   id="desc331">b[j]=1</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="70.87"
+   cy="1605.83"
+   cx="35.4331" />
+			<rect
+   id="rect333"
+   class="st1"
+   height="42.5197"
+   width="70.8661"
+   y="1584.57"
+   x="0" />
+			<text
+   id="text335"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="17.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />b[j]=1</text>
+		</g>
+		<g
+   transform="translate(324.992,-376.299)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="132"
+   id="shape132-154">
+			<title
+   id="title338">Процесс.132</title>
+			<desc
+   id="desc340">b[j]=0</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="70.87"
+   cy="1605.83"
+   cx="35.4331" />
+			<rect
+   id="rect342"
+   class="st1"
+   height="42.5197"
+   width="70.8661"
+   y="1584.57"
+   x="0" />
+			<text
+   id="text344"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="17.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />b[j]=0</text>
+		</g>
+		<g
+   transform="translate(268.299,-454.252)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="133"
+   id="shape133-157">
+			<title
+   id="title347">Динамическая соединительная линия.133</title>
+			<path
+   id="path349"
+   class="st5"
+   d="M0 1627.09 L-21.26 1627.09 L-21.26 1655.48" />
+		</g>
+		<g
+   transform="translate(339.165,-454.252)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="134"
+   id="shape134-162">
+			<title
+   id="title352">Динамическая соединительная линия.134</title>
+			<path
+   id="path354"
+   class="st4"
+   d="M0 1627.09 L21.26 1627.09 L21.26 1662.52" />
+		</g>
+		<g
+   transform="translate(360.425,-369.213)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="135"
+   id="shape135-165">
+			<title
+   id="title357">Динамическая соединительная линия.135</title>
+			<path
+   id="path359"
+   class="st4"
+   d="M0 1620 L0 1641.26 L-113.39 1641.26 L-113.39 1620" />
+		</g>
+		<g
+   transform="translate(303.732,-355.039)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="136"
+   id="shape136-168">
+			<title
+   id="title362">Динамическая соединительная линия.136</title>
+			<path
+   id="path364"
+   class="st5"
+   d="M0 1627.09 L0 1648.35 L-150.24 1648.35 L-150.24 996.38 L-72.24 996.38" />
+		</g>
+		<g
+   transform="translate(368.929,-985.748)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="137"
+   id="shape137-173">
+			<title
+   id="title367">Динамическая соединительная линия.137</title>
+			<path
+   id="path369"
+   class="st4"
+   d="M0 1627.09 L148.74 1627.09 L148.74 2299.3 L-65.06 2299.3 L-65.06 2321.57" />
+		</g>
+		<g
+   transform="translate(232.866,-645.591)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="143"
+   id="shape143-176">
+			<title
+   id="title372">Динамическая соединительная линия.143</title>
+			<path
+   id="path374"
+   class="st4"
+   d="M0 1627.09 L0 1732.91 L162.99 1732.91" />
+		</g>
+		<g
+   transform="translate(388.772,-539.764)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="144"
+   id="shape144-179">
+			<title
+   id="title377">Динамическая соединительная линия.144</title>
+			<path
+   id="path379"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1606.42" />
+		</g>
+		<g
+   transform="translate(296.646,-518.031)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="149"
+   id="shape149-182">
+			<title
+   id="title382">Динамическая соединительная линия.149</title>
+			<path
+   id="path384"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1605.35" />
+		</g>
+		<g
+   transform="translate(238.535,-794.409)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="152"
+   id="shape152-185">
+			<title
+   id="title387">Динамическая соединительная линия.152</title>
+			<path
+   id="path389"
+   class="st9"
+   d="M-6.68 1627.09 L-7.04 1627.09 L-62.36 1627.09 L-62.36 1903.46 L65.2 1903.46" />
+		</g>
+		<g
+   transform="translate(248.457,-248.74)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="154"
+   id="shape154-191">
+			<title
+   id="title392">Пользовательская 4.154</title>
+			<desc
+   id="desc394">i=0, m, 1</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(1):26"
+   v:nameU="AntiScale" />
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="42.5197"
+   width="76.82"
+   cy="1605.83"
+   cx="55.4173" />
+			<path
+   id="path396"
+   class="st1"
+   d="M17.01 1627.09 L93.83 1627.09 L110.83 1605.83 L93.83 1584.57 L17.01 1584.57 L0 1605.83 L17.01 1627.09 Z" />
+			<text
+   id="text404"
+   v:langID="1049"
+   class="st2"
+   y="1608.83"
+   x="28.41"><v:paragraph
+   v:horizAlign="1" /><v:tabList />i=0<tspan
+   id="tspan398"
+   v:langID="1033"
+   class="st3">, </tspan>m<tspan
+   id="tspan400"
+   v:langID="1033"
+   class="st3">, </tspan><tspan
+   id="tspan402"
+   v:langID="1033"
+   class="st3">1</tspan></text>
+		</g>
+		<g
+   transform="translate(268.441,-184.961)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="155"
+   id="shape155-197">
+			<title
+   id="title407">Документ.155</title>
+			<desc
+   id="desc409">b[i]</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.59055118110236):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="31.8898"
+   width="70.87"
+   cy="1600.51"
+   cx="35.4331" />
+			<path
+   id="path411"
+   class="st1"
+   d="M0 1621.77 L0 1584.57 L70.87 1584.57 L70.87 1621.77 A32.185 32.185 -180 0 0 35.43 1621.77 A32.185 32.185 0 0        1 -0 1621.77 Z" />
+			<text
+   id="text413"
+   v:langID="1049"
+   class="st2"
+   y="1603.51"
+   x="23.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />b[i]</text>
+		</g>
+		<g
+   transform="translate(296.787,-248.74)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="161"
+   id="shape161-200">
+			<title
+   id="title416">Динамическая соединительная линия.161</title>
+			<path
+   id="path418"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(303.874,-190.276)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="162"
+   id="shape162-203">
+			<title
+   id="title421">Динамическая соединительная линия.162</title>
+			<path
+   id="path423"
+   class="st5"
+   d="M0 1627.09 L0 1653.66 L-76.68 1653.66 L-76.68 1547.36 L-62.46 1547.36" />
+		</g>
+		<g
+   transform="translate(359.291,-270)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="163"
+   id="shape163-208">
+			<title
+   id="title426">Динамическая соединительная линия.163</title>
+			<path
+   id="path428"
+   class="st4"
+   d="M0 1627.09 L21.26 1627.09 L21.26 1754.65 L-55.42 1754.65 L-55.42 1775.91" />
+		</g>
+		<g
+   transform="translate(268.441,-92.8346)"
+   v:layerMember="0"
+   v:groupContext="shape"
+   v:mID="164"
+   id="shape164-211">
+			<title
+   id="title431">Начало/конец.164</title>
+			<desc
+   id="desc433">Конец</desc>
+			<v:custProps>
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format="@"
+   v:type="7"
+   v:prompt=""
+   v:lbl="Стоимость"
+   v:nameU="Cost" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="2"
+   v:prompt=""
+   v:lbl="Номер процесса"
+   v:nameU="ProcessNumber" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Владелец"
+   v:nameU="Owner" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="0"
+   v:prompt=""
+   v:lbl="Функция"
+   v:nameU="Function" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата начала"
+   v:nameU="StartDate" />
+				<v:cp
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=""
+   v:type="5"
+   v:prompt=""
+   v:lbl="Дата окончания"
+   v:nameU="EndDate" />
+				<v:cp
+   v:val="VT4()"
+   v:cal="0"
+   v:langID="1049"
+   v:ask="false"
+   v:invis="false"
+   v:sortKey=""
+   v:format=";Не начато;Выполняется;Завершено;Отложено;Ожидается ввод"
+   v:type="4"
+   v:prompt=""
+   v:lbl="Состояние"
+   v:nameU="Status" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+				<v:ud
+   v:val="VT0(0.98425196850394):24"
+   v:prompt=""
+   v:nameU="DefaultWidth" />
+				<v:ud
+   v:val="VT0(0.39370078740157):24"
+   v:prompt=""
+   v:nameU="DefaultHeight" />
+				<v:ud
+   v:val="VT0(0.39370078740157):24"
+   v:prompt=""
+   v:nameU="ResizeTxtHeight" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="28.3465"
+   width="70.87"
+   cy="1612.91"
+   cx="35.4331" />
+			<path
+   id="path435"
+   class="st1"
+   d="M14.17 1627.09 L56.69 1627.09 A14.1732 14.1732 -180 0 0 56.69 1598.74 L14.17 1598.74 A14.1732 14.1732 -180 1        0 14.17 1627.09 Z" />
+			<text
+   id="text437"
+   v:langID="1049"
+   class="st2"
+   y="1615.91"
+   x="20.43"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Конец</text>
+		</g>
+		<g
+   transform="translate(290.551,-1060.16)"
+   v:layerMember="1;0"
+   v:groupContext="shape"
+   v:mID="166"
+   id="shape166-214">
+			<title
+   id="title440">Ссылка на текущую страницу</title>
+			<desc
+   id="desc442">A</desc>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="25.5118"
+   width="25.52"
+   cy="1614.33"
+   cx="12.7559" />
+			<path
+   id="path444"
+   class="st1"
+   d="M0 1614.33 A12.7559 12.7559 0 0 1 25.51 1614.33 A12.7559 12.7559 0 1 1 0 1614.33 Z" />
+			<text
+   id="text446"
+   v:langID="1033"
+   class="st8"
+   y="1616.73"
+   x="10.44"><v:paragraph
+   v:horizAlign="1" /><v:tabList />A</text>
+		</g>
+		<g
+   transform="translate(290.976,-1028.27)"
+   v:layerMember="1;0"
+   v:groupContext="shape"
+   v:mID="167"
+   id="shape167-217">
+			<title
+   id="title449">Ссылка на текущую страницу.167</title>
+			<desc
+   id="desc451">A</desc>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+			</v:userDefs>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="25.5118"
+   width="25.52"
+   cy="1614.33"
+   cx="12.7559" />
+			<path
+   id="path453"
+   class="st1"
+   d="M0 1614.33 A12.7559 12.7559 0 0 1 25.51 1614.33 A12.7559 12.7559 0 1 1 0 1614.33 Z" />
+			<text
+   id="text455"
+   v:langID="1033"
+   class="st8"
+   y="1616.73"
+   x="10.44"><v:paragraph
+   v:horizAlign="1" /><v:tabList />A</text>
+		</g>
+		<g
+   transform="translate(296.646,-1028.27)"
+   v:layerMember="1"
+   v:groupContext="shape"
+   v:mID="168"
+   id="shape168-220">
+			<title
+   id="title458">Динамическая соединительная линия.168</title>
+			<path
+   id="path460"
+   class="st4"
+   d="M7.09 1627.09 L7.09 1648.35" />
+		</g>
+		<g
+   transform="translate(226.772,-730.63)"
+   v:groupContext="shape"
+   v:mID="169"
+   id="shape169-223">
+			<title
+   id="title463">Лист.169</title>
+			<desc
+   id="desc465">да</desc>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="13.4646"
+   width="21.55"
+   cy="1620.35"
+   cx="10.7717" />
+			<rect
+   id="rect467"
+   class="st7"
+   height="13.4646"
+   width="21.5433"
+   y="1613.62"
+   x="0" />
+			<text
+   id="text469"
+   v:langID="1049"
+   class="st8"
+   y="1622.75"
+   x="6.62"><v:paragraph
+   v:horizAlign="1" /><v:tabList />да</text>
+		</g>
+		<g
+   transform="translate(359.15,-730.63)"
+   v:groupContext="shape"
+   v:mID="173"
+   id="shape173-226">
+			<title
+   id="title472">Лист.173</title>
+			<desc
+   id="desc474">нет</desc>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="14.1732"
+   width="23.53"
+   cy="1620"
+   cx="11.7638" />
+			<rect
+   id="rect476"
+   class="st7"
+   height="14.1732"
+   width="23.5276"
+   y="1612.91"
+   x="0" />
+			<text
+   id="text478"
+   v:langID="1049"
+   class="st8"
+   y="1622.4"
+   x="6.09"><v:paragraph
+   v:horizAlign="1" /><v:tabList />нет</text>
+		</g>
+		<g
+   transform="translate(322.299,-665.846)"
+   v:groupContext="shape"
+   v:mID="175"
+   id="shape175-229">
+			<title
+   id="title481">Лист.175</title>
+			<desc
+   id="desc483">да</desc>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="13.4646"
+   width="21.55"
+   cy="1620.35"
+   cx="10.7717" />
+			<rect
+   id="rect485"
+   class="st7"
+   height="13.4646"
+   width="21.5433"
+   y="1613.62"
+   x="0" />
+			<text
+   id="text487"
+   v:langID="1049"
+   class="st8"
+   y="1622.75"
+   x="6.62"><v:paragraph
+   v:horizAlign="1" /><v:tabList />да</text>
+		</g>
+		<g
+   transform="translate(447.874,-666.142)"
+   v:groupContext="shape"
+   v:mID="176"
+   id="shape176-232">
+			<title
+   id="title490">Лист.176</title>
+			<desc
+   id="desc492">нет</desc>
+			<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(2,2,2,2)" />
+			<v:textRect
+   height="14.1732"
+   width="23.53"
+   cy="1620"
+   cx="11.7638" />
+			<rect
+   id="rect494"
+   class="st7"
+   height="14.1732"
+   width="23.5276"
+   y="1612.91"
+   x="0" />
+			<text
+   id="text496"
+   v:langID="1049"
+   class="st8"
+   y="1622.4"
+   x="6.09"><v:paragraph
+   v:horizAlign="1" /><v:tabList />нет</text>
+		</g>
+	</g>
+</svg>

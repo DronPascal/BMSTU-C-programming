@@ -1,0 +1,1 @@
+void minmax(float a, float b, float (*ptr)(float), int mi, int ma);

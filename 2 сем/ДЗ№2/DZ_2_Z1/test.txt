@@ -1,0 +1,7 @@
+input 11 1500 1980 brick 356740000 Pohilov 
+input 20 500 2005 brick 724340000 Kraynov
+input 2 74 1860 wooden 720040 Kasupovich
+input 1 50 1923 wooden 857040 Slobodenuk
+input 11 1000 2014 brick 1485674300 Pascal
+
+
